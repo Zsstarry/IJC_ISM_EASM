@@ -1,9 +1,9 @@
 # IJC_ISM_EASM
 
 Python:
-1. Data pre-processing__
-    Extreme.py__
-    Extreme_Under_Box.py__
+1. Data pre-processing  
+    Extreme.py  
+    Extreme_Under_Box.py  
 
 2. Network reconstruction__
     Event_Sync_Null_Model_Cy.pyx__
