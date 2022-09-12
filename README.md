@@ -1,7 +1,7 @@
 # IJC_ISM_EASM
 
 Python:
-1. Data pre-processing:
+1. Data pre-processing:\\
     Extreme.py
     Extreme_Under_Box.py
 
@@ -22,7 +22,7 @@ Python:
     ISM_EASM_IJC_Task1_Ud_ES_Clim_ERA5_WVF_CAno_Mon.py
     ISM_EASM_IJC_Task1_Ud_ES_Clim_TRMM_R_CAno.py
 
-5. Visualization in the main text
+5. Visualization in the main text:\\
     Fig.1: ~ISM_EASM_IJC_Task1_Visual_ES_Reg_TPDeg_ASM_And_Mon.py
     Fig.2: ~ISM_EASM_IJC_Task1_Visual_Ud_ES_Reg_Sync_Corr_M.py
     Fig.3: ~ISM_EASM_IJC_Task1_Visual_Ud_ES_Clim_GPH_CAnoSN_MonRF.py
