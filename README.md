@@ -1,6 +1,7 @@
 # IJC_ISM_EASM
 
-Python:
+All coding files are implemented using Python 3.9:  
+(Packages including: cython 0.29.32 + xarray 2022.6.0 + zarr 2.12.0 + netcdf4 1.6.0 + basemap 1.2.2 + cmocean 2.0):
 1. Data pre-processing  
     Extreme.py  
     Extreme_Under_Box.py  
@@ -31,7 +32,8 @@ Python:
     Fig.6: ~ISM_EASM_IJC_Task1_Visual_Ud_ES_Clim_OLR_CAnoSN_Single.py  
     Fig.7: ~ISM_EASM_IJC_Task1_Visual_Ud_ES_Reg_Sync_MJO_BSISO.py  
 
-The original code reference to [1]:  
+PS:  
+For the original version of code on climate network reconstruction, please refer [1]:  
 https://github.com/niklasboers/rainfall-teleconnections.git
   
 [1] Boers, N., Goswami, B., Rheinwalt, A., Bookhagen, B., Hoskins, B., & Kurths, J. (2019). Complex networks reveal global pattern of extreme-rainfall teleconnections. Nature, 566(7744), 373-377.
