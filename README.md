@@ -32,7 +32,6 @@ All coding files are implemented using Python 3.9:
     Fig.6: ~ISM_EASM_IJC_Task1_Visual_Ud_ES_Clim_OLR_CAnoSN_Single.py  
     Fig.7: ~ISM_EASM_IJC_Task1_Visual_Ud_ES_Reg_Sync_MJO_BSISO.py  
 
-PS:  
 For the original version of code on climate network reconstruction, please refer to [1]:  
 https://github.com/niklasboers/rainfall-teleconnections.git
   
