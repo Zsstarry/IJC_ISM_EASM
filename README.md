@@ -33,7 +33,7 @@ All coding files are implemented using Python 3.9:
     Fig.7: ~ISM_EASM_IJC_Task1_Visual_Ud_ES_Reg_Sync_MJO_BSISO.py  
 
 PS:  
-For the original version of code on climate network reconstruction, please refer [1]:  
+For the original version of code on climate network reconstruction, please refer to [1]:  
 https://github.com/niklasboers/rainfall-teleconnections.git
   
 [1] Boers, N., Goswami, B., Rheinwalt, A., Bookhagen, B., Hoskins, B., & Kurths, J. (2019). Complex networks reveal global pattern of extreme-rainfall teleconnections. Nature, 566(7744), 373-377.
