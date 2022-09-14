@@ -1,6 +1,6 @@
 # IJC_ISM_EASM
 
-The code is based on the paper:
+The code is based on the paper:  
 Gupta, S., Su, Z., Boers, N., Kurths, J., Marwan, N. and Pappenberger, F. (2022), Interconnection between the Indian and the East Asian Summer Monsoon: spatial synchronization patterns of extreme rainfall events. Int J Climatol. Accepted Author Manuscript. https://doi.org/10.1002/joc.7861
 
 All coding files are implemented using Python 3.9:  
